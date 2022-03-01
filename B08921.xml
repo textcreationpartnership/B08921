@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the city of Aeth and situation of the castle, with an exact journal of the siege, begun the 17th of May new stile, till the capitulation on the 5th of June, and surrender on the 7th together with the new fortifications made by the French, 1667.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08921</idno>
+            <idno type="STC">Wing D1154B</idno>
+            <idno type="STC">ESTC R224609</idno>
+            <idno type="EEBO-CITATION">64551168</idno>
+            <idno type="OCLC">ocm 64551168</idno>
+            <idno type="VID">184520</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184520)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the city of Aeth and situation of the castle, with an exact journal of the siege, begun the 17th of May new stile, till the capitulation on the 5th of June, and surrender on the 7th together with the new fortifications made by the French, 1667.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom at the Blue-Ball near Bridgewall-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Villeroi, François de Neufville, --  duc de, 1644-1730.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184520:1" rendition="simple:additions"/>
+            <head>A Deſcription of the City of AETH and Situation of the Caſtle, with an exact Journal of the Siege, begun the 17<hi>th</hi> of <hi>May</hi> New Stile, till the Capitulation on the 5<hi>th</hi> of <hi>June,</hi> and Surrender on the 7<hi>th</hi> Together with the New Fortifications made by the <hi>French,</hi> 1667.</head>
+            <figure>
+               <figDesc>map of city of Aeth</figDesc>
+               <head>The Explanation</head>
+               <p>A. <hi>The Mons Gate.</hi> B. <hi>The Bruſſels Gate.</hi> C. <hi>The Tournay Gate.</hi> D. <hi>A Horn-Work.</hi> E. <hi>The Half-moon of Vallon.</hi> F. <hi>The Half-moon of Coff<g ref="char:EOLhyphen"/>res.</hi> G. <hi>The Half-moon of Recollets.</hi> H. <hi>The Half-moon of Brabanoon.</hi> I. <hi>The Half-moon of Cambren.</hi> K. <hi>The Half-moon of Tournay.</hi> L. <hi>The Flemiſh Half-moon.</hi> M. <hi>The Mons Half-moon.</hi> N. <hi>The Luxemburg Baſtion.</hi> O. <hi>The Hanault Baſtion.</hi> P <hi>The Burgundy Baſtion.</hi> Q. <hi>The Namur. Baſtion.</hi> R. <hi>The Limburg Baſtion.</hi> S. <hi>The Brabant Baſtion.</hi> T. <hi>The Flanders Baſtion.</hi> U. <hi>The Artois Baſtion.</hi> X. <hi>An Outwork.</hi> Z. <hi>The Old Caſtle.</hi> 9. <hi>The Anti-Court.</hi>
+               </p>
+            </figure>
+            <p>
+               <hi>AETH</hi> is a City in <hi>Hanault,</hi> ſeated on the Ri<g ref="char:EOLhyphen"/>ver <hi>Dendre,</hi> 14 Miles North from <hi>Mons,</hi> as many South from <hi>Audenard,</hi> and about 20 South Weſt from <hi>Bruſſels.</hi> It is a place of good Trade for Linnen, and by reaſon of the Situation near the borders of theſe three Provinces of <hi>Hanault, Flanders, Brabant,</hi> it hath been at ſeveral times well Fortified, eſpecially by the <hi>French,</hi> after they had taken it in the Year 1667, for it be<g ref="char:EOLhyphen"/>ing granted to them by the Treaty of <hi>Aix la Chappelle,</hi> Mounſieur <hi>Vauban</hi> was ſet to Work, and by great coſt it was made a moſt regular Fortification; which made this moſt advanc'd Frontier a place of great Strength. The <hi>French</hi> was obliged to reſtore at the Peace of <hi>Nimeguen;</hi> and belonged to the King of <hi>Spain</hi> until this preſent Year.</p>
+            <p>
+               <hi>May</hi> 17th, <hi>Aeth</hi> was Inveſted on all ſides to the 27th of the ſame Month in this manner.</p>
+            <p>The Troops which compoſed the Army of the Mareſchal <hi>de Catinat</hi> and above 20000 Pioneers, being arriv'd before <hi>Aeth</hi> the 17th of <hi>May</hi> and the Poſts about it having been poſeſſed, they began to Work on the Lines of Circumvallation. The ſame Day the Army of the Mareſchal Duke <hi>de Villeroy</hi> made a motion and ſtretcht it ſelf as far as <hi>Ligne.</hi> The Counteſs <hi>de Roeux</hi> Wife of the Governour of <hi>Aeth</hi> and greateſt part of the Women and Maids having obtain'd permiſſion of the ſaid Mareſchal (whoſe Army made the Siege) went out of the ſaid City. The 18th they began to work on the Lines and to make Bridges over the <hi>Dendre.</hi> The Mareſchals <hi>de Villeroy</hi> and <hi>Catinat</hi> with Mounſieur <hi>Vauban</hi> and other general Officers went to view the Ground towards the Abby of <hi>Cambron,</hi> and it was Reſolved to put into the ſaid Abby 6 Battallions and a Regiment of Dragoons with order to entrench themſelves, and to clap other Troops in <hi>Lens</hi> in order to ſhut up the paſſage from the Enemy. The 19th they continued to bring all things neceſſary for the Siege of the Place, and the Enemies continued to make a very great fire with Cannon almoſt without any effect. The 20th the Mareſchal Duke <hi>de Villeroy</hi> left <hi>Ligne</hi> with his Army, and went and encampt at <hi>Oſticke</hi> where the General Quarters were; the Right<g ref="char:EOLhyphen"/>wing at <hi>Papigny</hi> and the Left at <hi>Hamede.</hi> The Mareſchal Duke <hi>de Boufflers</hi> having had Advice that the Prince <hi>de Vaudemont</hi> had moved the firſt Line of the Army he Commanded as far as <hi>Leu<g ref="char:EOLhyphen"/>beck</hi> upon the <hi>Senne</hi> a little on this ſide <hi>Hall,</hi> made alſo his Army advance as far as <hi>Neaville</hi> beyond <hi>Soignies.</hi> In the Morning the Mareſchals <hi>de Villeroy</hi> and <hi>de Catinat</hi> made a review of their Armies, and after ſent them out to Forage.</p>
+            <p>The Lines of Circumvallation being finiſhed, they ſent the Pioneers home again to their Houſes; the ſame Day about 8 of the Clock at Night they opened the Trenches by two ſeveral ways on the ſide of <hi>Bruſſels</hi> Gate; the Count <hi>de Teſſe</hi> Lieutenant General mounted on the Right with Mounſieur <hi>de Salis</hi> Brigadier and the Sieur <hi>de Puy Vauban</hi> chief Ingineer and two Battallions of the Regiment of <hi>Po<g ref="char:EOLhyphen"/>veton</hi> and of <hi>la Marche,</hi> they made about 1500 Fathom of Trench, and joined in the Morning the two Attacks by a Parallel of 200 Paces from the place; all there works having been made and brought to an entire degree of Perfection without the loſs of one Man. The 21d the Mareſchal <hi>de Villeroy</hi> made a movement of his Army, and advanced the Left-wing towards the River <hi>Den<g ref="char:EOLhyphen"/>dre</hi> over which he caſt ſeveral Bridges. That Evening he ſent a great Detachment to learn News of the Enemy; The ſame Day a Convoy of 10 pieces of Cannon and 400 Waggons laden with Am<g ref="char:EOLhyphen"/>munition and with the Baggage of the Officers was attackt at the Valley of <hi>Maude</hi> two Leagues from <hi>Tournay,</hi> from whence it was ſent by a part of the Troops of <hi>Bavaria</hi> conſiſting of 200 choſen Men Horſe and Foot; but a party of the Convoy being advanced at the noiſe, charged them with ſo much Vigour that the Commander of the Party was killed with eighteen of his Men and the reſt put to flight without any other loſs on our ſide than of three Soldiers Killed, and a Lieutenant of the <hi>Swiſs</hi> Wounded, and ſo the Convoy arrived ſafe in the Camp.</p>
+            <p>On the 22th The <hi>French</hi> open'd their Trenches before <hi>Aeth,</hi> and were advanced to the Glacis of the Counterſcarp; the ſame Day their Cannon began to play upon the Town: The Beſieged made a Sally with good ſucceſs, killing ſeveral of the Enemy, and De<g ref="char:EOLhyphen"/>moliſhing ſome of their Works, after which our Men retired in good Order.</p>
+            <p>The Night following the Marqueſs <hi>de Vin</hi> Lieutenant-General Mounted the Trenches with the Marqueſs <hi>de Vilray</hi> Brigadier and 2 Battallions of <hi>Anjou</hi>'s and one of <hi>Tournay</hi>'s. The Count <hi>de Garcey</hi> Mareſchal <hi>de Camp</hi> mounted on the Left with 2 Battalions of <hi>Humiers</hi> and that of <hi>Vexin,</hi> they puſhed on the 2 Trenches within 200 Fathom of the Place, where they were joined the 23th by a Parallel.</p>
+            <p>The ſame Day the Marqueſs <hi>de Conſtans,</hi> who had Orders to throw himſelf into <hi>Aeth</hi> to command there, was taken Priſoner by the Troops of the Mareſchal <hi>de Villeroy,</hi> and he was conducted the 24th. to <hi>Mons.</hi> In the Evening they had Advice that the Elector of <hi>Bavaria</hi> obſerving that the Poſt he had taken at <hi>Deynſe</hi> was of no uſe to him had abandoned it, and made his Army repaſs through <hi>Ghent</hi> on its way to joyn that of the King of <hi>England,</hi> taking his way behind the great <hi>Skelt.</hi>
+            </p>
+            <p>Major General <hi>Fagell</hi> who camped near <hi>Newport</hi> came with 12 Bar<g ref="char:EOLhyphen"/>tallions to poſſeſs the Poſt at <hi>Deynſe,</hi> upon this News the Marqueſs <hi>de Crequi</hi> received Orders to ſet forward with his Detachment from thoſe that were upon the <hi>Laye,</hi> to approach the Army of the Mareſchal <hi>de Villeroy</hi> at his Camp of <hi>Oſticke.</hi> The Marqueſs <hi>de Montreville</hi> came in his room from <hi>Courtray,</hi> with 20 Battallions. The Mareſchal <hi>de Boufflers</hi> made at the ſame time his left Wing to advance near to <hi>Cambron,</hi> ſo that the Three Armies were in a readineſs to joyn in a few Hours time when there ſhould be occaſion for it. The 24th. in the Evening the Trench was mounted on the Right by the Marqueſs <hi>de Lorray</hi> Lieutenant Ge<g ref="char:EOLhyphen"/>neral, and Mounſieur <hi>Lee</hi> Brigadier, with a Battallion of <hi>Artois,</hi> of one <hi>Catinat,</hi> and one of <hi>Berry;</hi> and on the Left by the Marqueſs <hi>de Clerem<g ref="char:EOLhyphen"/>beaut</hi> Mareſchal de Camp, with 2 Battallions of <hi>Vermandois,</hi> and of one <hi>Beauquis.</hi> That Night and the next Day they carried on the Trench to the bottom of the Glacis of the Counterſcarp. The 25th. at Night the Chevalier <hi>de la Teſte</hi> Lieutenant General, and Monſieur <hi>Blegny</hi> Bri<g ref="char:EOLhyphen"/>gadier, mounted the Trench on the Right, with Three Battallions of the Regiment of <hi>Stoapa;</hi> and the Marqueſs <hi>d'<g ref="char:V">Ʋ</g>lpion</hi> on the Left, with a Bat<g ref="char:EOLhyphen"/>tallion of <hi>Stoapa,</hi> and Two of <hi>Salis:</hi> They finiſhed that Night with the Sappe the Communication of the Two Trenches by a Parallel, and they wrought to raiſe 5 Batteries of 6 Pieces of Cannon each.</p>
+            <p>
+               <hi>May</hi> 26, The Enemies ſent out ſome Muſquetiers, which poſted themſelves in the Hedges to incommode the Work-men, but they were ſoon driven away by a Detachment of 200 Men.</p>
+            <p>The Chevalier <hi>de la Teſſe</hi> received a Contuſion and a Wound on the Side; they loſt ſince the Inveſture of the Place but 14 or 15 Soldiers, amongſt which there were only Two Officers. At Night the Chevalier <hi>de Goſſion</hi> Lieutenant General, and the Marqueſs <hi>de Biron</hi> Brigadier, mounted the Trench on the Right, with 2 Battallions of the Regiment of <hi>Malevrier,</hi> and another; and the Marqueſs <hi>de Haurtcourt</hi> Mareſchal de Camp, with 3 Battallions of <hi>Sarebeck:</hi> That Night they finiſhed the 5 Batteries, and the 27th. at Four of the Clock in the Morn<g ref="char:EOLhyphen"/>ing they began to Fire from the Batteries upon the right Face of the Baſtion of <hi>Limbargh,</hi> and againſt the half Moon of <hi>Brabancon,</hi> and the reſt againſt the half Moon of <hi>Cambron,</hi> and the left Face of the ſame Baſtion of <hi>Limbargh.</hi>
+            </p>
+            <p>On the 28th Brigadier <hi>Lumly</hi> being ſent out with a Detachment, met with a <hi>French</hi> Party of 200 Carabineers and 150 Huſſars, Commanded by the Colonel of the Huſſars, with whom having engaged, the Co<g ref="char:EOLhyphen"/>lonel with a Captain and 20 Men were brought in Priſoners, beſides ſeveral killed.</p>
+            <p>The 29th The Army Commanded by <hi>Villeroy</hi> and <hi>Boufflers</hi> were very near each other, and advantageouſly Poſted to cover the Siege, which was carried on by <hi>Catinat.</hi> The 30th Sir <hi>William Ruſſell</hi> a Captain in Colonel <hi>Coy</hi>'s Regiment, Commanding an advanced Party in his Majeſty's Army, Attackt a party of the Enemy, and took a Colonel and a great many Priſoners.</p>
+            <p>On the 31ſt. The <hi>French</hi> Carried on their Trenches, and begun to bat<g ref="char:EOLhyphen"/>ter the Works of the Town, but with the loſs of ſeveral Officers; Mon<g ref="char:EOLhyphen"/>ſieur <hi>Vauban</hi> the <hi>French</hi> King's principal Ingeneer received a Confuſion on his Thigh by a Muſquet Shot. On the 1ſt of <hi>June</hi> the Gariſon of <hi>Aeth</hi> made a very good Defence, having opened their Siuices which drowned ſeveral of the Enemy, and ſeveral Officers in carrying on their Trenches, though they endeavoured by their Bombs and Cannons to deſtroy its effects: There were ſeveral Bombs throw'd into Town which ſet ſeveral Houſes on Fire; but were preſently Extinguiſhed.</p>
+            <p>On the 2 of <hi>June</hi> his Majeſty was Encamped at <hi>Genap,</hi> and the Elector of <hi>Bavaria</hi> at <hi>Deynſs, Villeroy</hi> and <hi>Boufflers</hi> were at their Camps at <hi>Leſſines</hi> and <hi>Silly,</hi> not far from <hi>Aeth:</hi> The 3d a perſon who got out of <hi>Aeth</hi> re<g ref="char:EOLhyphen"/>ported the <hi>French</hi> took a Half-moon after two Repulſes and loſs of Men, and that there Bombs at laſt had ruined the Sluices, which had much in convenienced the Beſieged, putting ſeveral of the Streets in the Town under Water; but at the ſame time broke the Enemies Bridges of Com<g ref="char:EOLhyphen"/>munication. Monſieur <hi>Negrini</hi> Lieutenant-General and ſecond Ingeneer of <hi>France</hi> was Killed.</p>
+            <p>
+               <hi>June</hi> 4, One part of the Right of the Baſtion of <hi>Limburg</hi> fell 14 or 15 Yards in length, and we ſhot from the Breaches of theſe two Baſtions to render it more eaſy, and caſt in Faggots to fill up the Ditch. They perpetually ſhot from two Batteries of 12 Morters each, which were placed upon the Cover'd-way before the <hi>Demilune,</hi> to hinder the Be<g ref="char:EOLhyphen"/>ſieged from retrenching behind their Baſtions. 5 in the Morning the Ditch was almoſt fill'd up, both by Earth and Faggots, in ſuch manner that the Breach became ſo even that 30 Men might Mount by the Baſti<g ref="char:EOLhyphen"/>on of <hi>Namur,</hi> and 20 or 25 by that of <hi>Limburg.</hi>
+            </p>
+            <p>The Mareſchal <hi>Catinat</hi> Commanded 20 Companies to Attack the place under the Command of Count <hi>de Mercia,</hi> with an aſſurance that they could not miſs of carrying the place by Aſſault. But at two of the Clock the Beſieged being afraid of a Storm, and being without hope of any ſuccour beat a Parly, and demanded to Capitulate: They ſent Hoſtages at 4 of the Clock; and a little after the Capitulation was agreed upon, in the following Terms.</p>
+            <list>
+               <item>I. <hi>THat the Beſieged ſhould deli<g ref="char:EOLhyphen"/>ver a Gate to the</hi> French <hi>at</hi> 6 <hi>in the Morning upon the</hi> 6th <hi>inſtant; and upon the</hi> 7th <hi>That the Garriſon ſhould go out at</hi> 10 <hi>in the Morning by the Breach, with Arms and Baggage, Drums beating, Colours flying, but without either Cannon or Mortar, and to be conducted in</hi> 3 <hi>Days to</hi> Den<g ref="char:EOLhyphen"/>dermond, <hi>and not to</hi> Bruſſels <hi>or</hi> Au<g ref="char:EOLhyphen"/>denard <hi>as they had requeſted.</hi>
+               </item>
+               <item>II. <hi>That they ſhould have</hi> 50 <hi>Wag<g ref="char:EOLhyphen"/>gons to Tranſport their Baggage, Sick and Wounded; which as 'tis ſaid was above Five Hundred.</hi>
+               </item>
+               <item>III. <hi>That they ſhould have</hi> 6 <hi>Cover<g ref="char:EOLhyphen"/>ed Waggons, but however that they ſhould be ſearched.</hi>
+               </item>
+               <item>IV. <hi>That they ſhould deliver up all the Deſerters, and that they ſhould ſend in Five particular Officers to be kept for Hoſtages till ſuch time the five Priſoners kept in the Cittadel of</hi> Anvers <hi>ſince the taking of</hi> Namur, <hi>upon pretence of pay due to the Inha<g ref="char:EOLhyphen"/>bitants by the</hi> French.</item>
+            </list>
+            <p>Theſe Articles were executed; the 7th the Gariſon marched out to the Number of 2500 Men, with the Governour the Count <hi>de Reaux,</hi> and next to him the Prince of <hi>Anhault</hi> at the Head of them, and other Prin<g ref="char:EOLhyphen"/>cipal Officers, who ſaluted Mareſchal <hi>Catinat,</hi> and the Duke <hi>de Tho<g ref="char:EOLhyphen"/>louze</hi> as they paſſed along. The five Hoſtages for the Priſoners of <hi>Na<g ref="char:EOLhyphen"/>mur</hi> were delivered, to wit the Prince of <hi>Chimay</hi> Knight of the Golden Fleece, The Sieur <hi>de Catoire</hi> Lieutenant-Colonel, a Major and two Cap<g ref="char:EOLhyphen"/>tains, and were the ſame Day conducted to <hi>Valenciennes.</hi> Above one half of the <hi>Italian</hi> Battallion Deſerted and put themſelves into the Kings Ser<g ref="char:EOLhyphen"/>vice: So the City of <hi>Aeth</hi> one of the ſtrongeſt and beſt Walled places of <hi>Europe</hi> was taken in 13 Days after the Trenches opened, with the loſs only of 50 Soldiers, and the Sieur <hi>Courtin</hi> Ingenier Killed, The Sieur <hi>Frene</hi> Gentleman of the Horſe to Mareſchal Duke <hi>de Villeroy,</hi> the Sieur <hi>Emonia</hi> Captain of the Artillery Carriages dead of their Wounds. 150 Wounded, among whom was a Captain of Granadiers and 7 In<g ref="char:EOLhyphen"/>gineers,</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>G. Croom</hi> at the Blue-Ball near <hi>Bride-well-Bridge,</hi> 1697. Price. 2<hi>d.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
